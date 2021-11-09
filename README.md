@@ -1,6 +1,8 @@
 # JavaScript-Hero #
 JavaScript practice
 
+LINK: https://www.jshero.net/en/success.html
+
 
 Overview
 Here you find all exercises. Unsolved exercises are red, solved green. With click or touch you navigate to the exercise. Reset JS Hero with the button below. 
