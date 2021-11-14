@@ -10,7 +10,7 @@ Example: indexOfIgnoreCase('bit','it') and indexOfIgnoreCase('bit','IT') should 
 
 SOLUTION
 
-function indexOfIgnoreCase (x,y){
-let xMinus = x.toLowerCase()
-let yMinus = y.toLowerCase()
-return xMinus
+function secondIndexOf(s1, s2) {
+  let firstIndex = s1.indexOf(s2);
+  return s1.indexOf(s2, firstIndex + 1);
+}
