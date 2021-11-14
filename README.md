@@ -85,7 +85,12 @@ All exercises will be red and you can start JS Hero again.
 74. String: split()
 75. Functions call functions
 76. Recursion
-77. Roman numerals I
-78. Roman numerals II
-79. Project Euler
-80. To be continued ...
+78. Roman numerals I
+79. Roman numerals II
+80. Project Euler
+81. To be continued ...
+
+
+
+
+
